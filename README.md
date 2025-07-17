@@ -1,2 +1,3 @@
-# Virtual-machine
-Showing the process of setting up a VM in Azure
+Virtual-machine
+This project is going to show the basics opf setting up Virtual Machine in Azure
+
