@@ -20,3 +20,6 @@ One you see there are no virtual machines go ahead and click create to move on t
 
 On this page you can see all the details about the virtual machine such as the name for it and the region that you want to set up your virtual machine in. Once you have everything configured click Create.
 
+<img width="613" height="487" alt="Image" src="https://github.com/user-attachments/assets/86deb32a-4d09-4ce8-ab76-90fb8744c647" />
+
+And once that is done you will have succsefully created a Virtual Machine in Azure
