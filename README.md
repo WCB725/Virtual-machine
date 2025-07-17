@@ -1,6 +1,6 @@
-Virtual-machine Set up
-
 <img width="256" height="232" alt="Image" src="https://github.com/user-attachments/assets/06c2b73e-c2e9-4513-a2f1-9008db77eef4" />
+
+VIRTUAL MACHINE SET UP IN AZURE
 
 This project is going to show the basics of setting up Virtual Machine in Azure
 
