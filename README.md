@@ -12,4 +12,8 @@ The first step to setting up a Virtual machine in Azure is to set up an account 
 
 The nect step is to go to the search bar and find where it says virtal machines and then Click on it. This will take you to where you will start setting up the Virtual Machine
 
+<img width="615" height="519" alt="Image" src="https://github.com/user-attachments/assets/01b292f5-8f25-4950-ba38-c9cd4841dc48" />
+
+One you see there are no virtual machines go ahead and click create to move on to the next step
+
 
