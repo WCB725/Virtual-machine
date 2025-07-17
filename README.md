@@ -1,4 +1,5 @@
 Virtual-machine
+<img width="1100" height=900" alt="Image" src="https://github.com/user-attachments/assets/4a3638ad-1ef9-4b32-b01d-d1182c5d3098" />
 
 This project is going to show the basics opf setting up Virtual Machine in Azure
 
