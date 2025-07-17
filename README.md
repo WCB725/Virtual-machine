@@ -16,4 +16,7 @@ The nect step is to go to the search bar and find where it says virtal machines 
 
 One you see there are no virtual machines go ahead and click create to move on to the next step
 
+<img width="615" height="717" alt="Image" src="https://github.com/user-attachments/assets/ce5edce8-98cf-4010-a551-445b87def54c" />
+
+On this page you can see all the details about the virtual machine such as the name for it and the region that you want to set up your virtual machine in. Once you have everything configured click Create.
 
