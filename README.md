@@ -32,4 +32,4 @@ On this page you can see all the details about the virtual machine such as the n
 
 <img width="613" height="487" alt="Image" src="https://github.com/user-attachments/assets/86deb32a-4d09-4ce8-ab76-90fb8744c647" />
 
-And once that is done you will have succsefully created a Virtual Machine in Azure
+And once that is done you will have succsefully created a Virtual Machine in Azure. You can now use the virtual machine for whatever purpose you may need it for.
